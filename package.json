@@ -1,9 +1,8 @@
 {
-	"name": "unicorn-fun",
-	"version": "0.0.0",
-	"description": "My awesome module",
+	"name": "puppeteer-app",
+	"version": "0.1.0",
 	"license": "MIT",
-	"repository": "https://github.com/qiurenbo/xxx",
+	"repository": "https://github.com/qiurenbo/puppeteer-boilerplate",
 	"author": {
 		"name": "qiurenbo",
 		"email": "qiurenbo@outlook.com",
@@ -18,12 +17,8 @@
 	"files": [
 		"index.js"
 	],
-	"keywords": [
-		"unicorn",
-		"fun"
-	],
-	"dependencies": {},
-	"devDependencies": {
-		"jest": "^24.8.0"
+	"dependencies": {
+		"puppeteer": "^1.19.0",
+		"sleep-while": "^0.1.0"
 	}
 }
