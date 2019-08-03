@@ -1,0 +1,29 @@
+{
+	"name": "unicorn-fun",
+	"version": "0.0.0",
+	"description": "My awesome module",
+	"license": "MIT",
+	"repository": "https://github.com/qiurenbo/xxx",
+	"author": {
+		"name": "qiurenbo",
+		"email": "qiurenbo@outlook.com",
+		"url": "https://www.imwhite.com.cn"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "jest --runInBand"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"unicorn",
+		"fun"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^24.8.0"
+	}
+}
