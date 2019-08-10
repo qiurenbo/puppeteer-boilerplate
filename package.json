@@ -11,14 +11,12 @@
 	"engines": {
 		"node": ">=8"
 	},
-	"scripts": {
-		"test": "jest --runInBand"
-	},
+	"scripts": {},
 	"files": [
 		"index.js"
 	],
 	"dependencies": {
-		"puppeteer": "^1.19.0",
-		"sleep-while": "^0.1.0"
+		"moment": "^2.24.0",
+		"puppeteer": "^1.19.0"
 	}
 }
