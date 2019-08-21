@@ -17,6 +17,7 @@
 	],
 	"dependencies": {
 		"moment": "^2.24.0",
-		"puppeteer": "^1.19.0"
+		"puppeteer": "^1.19.0",
+		"yargs": "^14.0.0"
 	}
 }
